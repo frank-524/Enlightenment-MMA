@@ -233,7 +233,7 @@ input[type=text], select, textarea {
   resize: vertical;
 }
 
-input[type=submit] {
+button {
   background-color: #FFD857;
   color: #894E00;
   padding: 12px 20px;
@@ -242,7 +242,7 @@ input[type=submit] {
   cursor: pointer;
 }
 
-input[type=submit]:hover {
+button:hover {
   background-color: #ddd;
   color: black;
 }
